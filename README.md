@@ -1,5 +1,4 @@
-# amazing-numbers
-finding properties of numbers
+# Amazing Numbers
 
 Amazing Numbers is a Java console application that allows users to explore various properties of natural numbers. It provides detailed information about individual numbers, lists of numbers, and allows filtering based on multiple properties.
 
